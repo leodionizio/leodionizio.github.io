@@ -21,10 +21,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   <a href="http://www.fatectq.edu.br/" target="_blank">FatecTq</a> e apaixonado por desafios...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: jekyllrb
-github_username:  jekyll
-linkedin_username: alguem
-google_username: alguem2
+facebook_username: leonardo.dionizio.5
+github_username:  leodionizio
+linkedin_username: leonardodionizio
 
 # Build settings
 markdown: kramdown
