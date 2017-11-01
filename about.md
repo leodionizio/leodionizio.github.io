@@ -3,7 +3,9 @@ layout: page
 title: Sobre
 permalink: /about/
 ---
-<div>
+<div class="about">
+    <img src="/assets/about.jpeg" alt="Imagem de um notebook e um oculos" class="about-img">
+    <br>
     <p>
         Apaixonado por tecnologia, iniciei meus estudos
         <a href="http://www.fatectq.edu.br/">FatecTq</a> cursando Análise e Desenvolvimento de Sistemas, onde comecei a aprender um pouco mais sobre o assunto.
@@ -20,9 +22,9 @@ permalink: /about/
         <a href="https://github.com/leodionizio">Github</a>.
     </p>
     <p>
-        Gosto muito de participiar de eventos onde sempre posso descobrir as novidades do mundo.
+        Gosto muito de participiar de eventos onde sempre posso descobrir as novidades do mundo e muito mais onde eu possa expor minhas opiniões.
     </p>
     <p>
-        Além da programação também sou apaixonado por filmes, cinema e séries. Tudo com uma boa história me conquista.
+        Além da programação também sou apaixonado por filmes, cinema, séries e <strong>café</strong>. Tudo com uma boa história me conquista.
     </p>
 </div>
