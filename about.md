@@ -8,7 +8,7 @@ permalink: /about/
     <br>
     <p>
         Apaixonado por tecnologia, iniciei meus estudos
-        <a href="http://www.fatectq.edu.br/">FatecTq</a> cursando Análise e Desenvolvimento de Sistemas, onde comecei a aprender um pouco mais sobre o assunto.
+        <a href="http://www.fatectq.edu.br/" target="_blank">FatecTq</a> cursando Análise e Desenvolvimento de Sistemas, onde comecei a aprender um pouco mais sobre o assunto.
     </p>
     <p>
         Iniciei na área da programação há quase um ano, como estagiário na
@@ -19,7 +19,7 @@ permalink: /about/
     </p>
     <p>
         Mesmo iniciando ainda como programador, tenho alguns projetos em meu repositório do
-        <a href="https://github.com/leodionizio">Github</a>.
+        <a href="https://github.com/leodionizio" target="_blank">Github</a>.
     </p>
     <p>
         Gosto muito de participiar de eventos onde sempre posso descobrir as novidades do mundo e muito mais onde eu possa expor minhas opiniões.
