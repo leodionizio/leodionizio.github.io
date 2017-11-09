@@ -26,8 +26,7 @@
             color: #555;
             padding: 1px 4%;
             &:hover {
-                background-color: #e7e7e7;
-                border-bottom: 2px solid #555;
+                background-color: #e7e7e7; // border-bottom: 2px solid #555;
             }
         }
         &:hover {
@@ -42,6 +41,7 @@
  */
 
 .side-menu {
+    $font-color: #d6d4d4;
     width: 40vw;
     background-color: rgba(37, 37, 37, 0.9);
     position: fixed;
@@ -62,7 +62,7 @@
         padding: 7px 15px;
         a {
             h1 {
-                color: #ccc;
+                color: $font-color;
                 &:hover {
                     color: $link-color;
                 }
@@ -75,7 +75,7 @@
     .menu-about {
         padding: 1px 25px;
         p {
-            color: #999;
+            color: $font-color;
         }
     }
     .menu-social {
@@ -84,7 +84,7 @@
         text-align: center;
         font-size: 30px;
         a {
-            color: #ccc;
+            color: $font-color;
             margin: 1px 15px;
             text-decoration: none;
             &:hover {
@@ -95,7 +95,7 @@
     .menu-email {
         margin-top: 10%;
         a {
-            color: #ccc;
+            color: $font-color;
             margin: 1px 15px;
             text-decoration: none;
             &:hover {
@@ -172,7 +172,7 @@
     background-color: #ece9e9;
     .p-footer {
         p {
-            font-family: 'Shadows Into Light Two', cursive;
+            font-family: $font-cursive;
             color: #666;
         }
     }
