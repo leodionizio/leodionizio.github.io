@@ -1,0 +1,10 @@
+  <!--  {% include side-menu.html %}{% include top-menu.html %}
+
+  <main class="page-content" id="content" aria-label="Content">
+     <div class="wrapper">
+      {{ content }}
+
+   </div> 
+  </main> 
+
+{% include footer.html %} -->
